@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="Demo03ServletJSP" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Demo03ServletJSP.</description>
+<project name="Demo04JavaBean" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Demo04JavaBean.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
